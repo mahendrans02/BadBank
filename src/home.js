@@ -54,7 +54,7 @@ export default function Home() {
       </div>
       <div className='about-div' style={{ textAlign: "center", marginTop: "100px", marginBottom: "100px" ,with: "100%"}}>
             <h2>About Us</h2>
-            <p>Bank of React is a bad bank initiative that helps you manage your distressed assets.<br/>
+            <p>Bank mahi of React is a bad bank initiative that helps you manage your distressed assets.<br/>
               Our mission is to help you take control of your finances and make informed decisions.<br/>
                We offer a range of services, including account creation, login, deposit, and withdrawal.<br/>
                Our platform is secure, user-friendly, and easy to navigate. 
